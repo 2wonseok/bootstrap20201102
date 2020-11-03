@@ -17,28 +17,7 @@ pageEncoding="UTF-8"%>
 </head>
 <body>
 
-<table class="table">
-	<tr>
-		<th>Lorem.</th>
-		<th>Quidem.</th>
-		<th>Dolores.</th>
-	</tr>
-	<tr>
-		<td>Lorem.</td>
-		<td>Nostrum!</td>
-		<td>Itaque.</td>
-	</tr>
-	<tr>
-		<td>Lorem.</td>
-		<td>At!</td>
-		<td>Consequatur.</td>
-	</tr>
-	<tr>
-		<td>Lorem.</td>
-		<td>Animi!</td>
-		<td>Consequatur!</td>
-	</tr>
-</table>
+<button class="btn btn-primary">Lorem.</button>
 
 </body>
 </html>

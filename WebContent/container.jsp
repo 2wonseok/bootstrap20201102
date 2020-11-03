@@ -16,29 +16,56 @@ pageEncoding="UTF-8"%>
 <title>이원석</title>
 </head>
 <body>
-
+<div class="container">
 <table class="table">
 	<tr>
 		<th>Lorem.</th>
-		<th>Quidem.</th>
-		<th>Dolores.</th>
+		<th>Ut!</th>
+		<th>Ratione.</th>
 	</tr>
 	<tr>
 		<td>Lorem.</td>
-		<td>Nostrum!</td>
-		<td>Itaque.</td>
+		<td>Ipsa.</td>
+		<td>Maxime!</td>
 	</tr>
 	<tr>
 		<td>Lorem.</td>
-		<td>At!</td>
-		<td>Consequatur.</td>
+		<td>Commodi.</td>
+		<td>Modi.</td>
 	</tr>
 	<tr>
 		<td>Lorem.</td>
-		<td>Animi!</td>
-		<td>Consequatur!</td>
+		<td>Tenetur.</td>
+		<td>Nam.</td>
 	</tr>
 </table>
+</div>
+
+<div class="container-fluid">
+<table class="table">
+	<tr>
+		<th>Lorem.</th>
+		<th>Ut!</th>
+		<th>Ratione.</th>
+	</tr>
+	<tr>
+		<td>Lorem.</td>
+		<td>>Ipsa.</td>
+		<td>Maxime!</td>
+	</tr>
+	<tr>
+		<td>Lorem.</td>
+		<td>Commodi.</td>
+		<td>Modi.</td>
+	</tr>
+	<tr>
+		<td>Lorem.</td>
+		<td>Tenetur.</td>
+		<td>Nam.</td>
+	</tr>
+</table>
+
+</div>
 
 </body>
 </html>
